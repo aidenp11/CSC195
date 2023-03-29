@@ -14,6 +14,8 @@ int main()
     float fVal1 = 15;
     char cVal1 = 'm';
 
+    std::cout << "Git\n";
+
     std::cout << "\n iVal1 = ";
     std::cout << iVal1 << " address = " << &iVal1;
     std::cout << "\n iVal2 = " << iVal2 << " address = " << &iVal2;
